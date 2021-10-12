@@ -1252,3 +1252,140 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.12-18.49.24:785][622]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.12-18.49.24:785][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.12-18.49.24:785][622]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.12-18.51.31:278][213]LogRenderer: Reallocating scene render targets to support 2448x1052 Format 10 NumSamples 1 (Frame:1).
+[2021.10.12-18.54.50:377][ 17]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonCharacter13C724564D1B7A44D56CA7B073C74F3C.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.12-18.54.50:395][ 17]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.12-18.54.50:395][ 17]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.12-18.56.29:722][929]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonCharacter8CF1E56D40F3FAA3419961B45C767F06.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.10.12-18.56.29:755][929]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.10.12-18.56.29:755][929]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.12-18.59.24:222][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.12-18.59.24:224][620]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.022
+[2021.10.12-18.59.24:225][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Container] ([1] browsable assets)...
+[2021.10.12-18.59.24:240][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Container.Container]
+[2021.10.12-18.59.24:240][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Container]
+[2021.10.12-18.59.24:245][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Container_Auto1DEF868EB4D608A50417465B3AAD62887.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Container_Auto1.uasset'
+[2021.10.12-18.59.24:246][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Geral] ([1] browsable assets)...
+[2021.10.12-18.59.24:255][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Geral.Geral]
+[2021.10.12-18.59.24:255][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Geral]
+[2021.10.12-18.59.24:261][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Geral_Auto190B1F1BD49F3B744FB5DD8944D19C7D8.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Geral_Auto1.uasset'
+[2021.10.12-18.59.24:262][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/LinhaPreta] ([1] browsable assets)...
+[2021.10.12-18.59.24:272][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/LinhaPreta.LinhaPreta]
+[2021.10.12-18.59.24:272][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/LinhaPreta]
+[2021.10.12-18.59.24:277][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/LinhaPreta_Auto160F36D374F67E7B473B5A1BD546324C3.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/LinhaPreta_Auto1.uasset'
+[2021.10.12-18.59.24:278][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Material] ([1] browsable assets)...
+[2021.10.12-18.59.24:288][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Material.Material]
+[2021.10.12-18.59.24:288][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Material]
+[2021.10.12-18.59.24:293][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Material_Auto1D0A3F160473F3897D683AB9CB8B85B48.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Material_Auto1.uasset'
+[2021.10.12-18.59.24:294][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Ponta] ([1] browsable assets)...
+[2021.10.12-18.59.24:304][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Ponta.Ponta]
+[2021.10.12-18.59.24:304][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Ponta]
+[2021.10.12-18.59.24:308][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Ponta_Auto18F8E899F409FB39D108A3AAF3255B71A.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Ponta_Auto1.uasset'
+[2021.10.12-18.59.24:309][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Trava] ([1] browsable assets)...
+[2021.10.12-18.59.24:321][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Trava.Trava]
+[2021.10.12-18.59.24:321][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Trava]
+[2021.10.12-18.59.24:327][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Trava_Auto1D20D26D04B1774AD89D7D6B8C9E26568.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Trava_Auto1.uasset'
+[2021.10.12-18.59.24:328][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Cano] ([1] browsable assets)...
+[2021.10.12-18.59.24:337][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Cano.Cano]
+[2021.10.12-18.59.24:337][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Cano]
+[2021.10.12-18.59.24:343][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Cano_Auto110A7CAD74ED1B282D4C0AAA733E9663D.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Cano_Auto1.uasset'
+[2021.10.12-18.59.24:344][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Madeira] ([1] browsable assets)...
+[2021.10.12-18.59.24:354][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Madeira.Madeira]
+[2021.10.12-18.59.24:355][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Madeira]
+[2021.10.12-18.59.24:363][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Madeira_Auto173F0087849EB96FEDC83C5BE3C32F2C1.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Madeira_Auto1.uasset'
+[2021.10.12-18.59.24:364][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Metal] ([1] browsable assets)...
+[2021.10.12-18.59.24:376][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Metal.Metal]
+[2021.10.12-18.59.24:376][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Metal]
+[2021.10.12-18.59.24:383][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Metal_Auto180042D214D8C341987B55FB82520D466.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Metal_Auto1.uasset'
+[2021.10.12-18.59.24:384][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Parede] ([1] browsable assets)...
+[2021.10.12-18.59.24:405][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Parede.Parede]
+[2021.10.12-18.59.24:405][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Parede]
+[2021.10.12-18.59.24:411][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Parede_Auto19FF0551643B1E84D1328BDBF2EE461AD.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Parede_Auto1.uasset'
+[2021.10.12-18.59.24:412][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Pedra_detalhe] ([1] browsable assets)...
+[2021.10.12-18.59.24:422][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Pedra_detalhe.Pedra_detalhe]
+[2021.10.12-18.59.24:422][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Pedra_detalhe]
+[2021.10.12-18.59.24:429][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Pedra_detalhe_Auto1F6DA159845270687BF3378A109AD1661.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Pedra_detalhe_Auto1.uasset'
+[2021.10.12-18.59.24:429][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Porta] ([1] browsable assets)...
+[2021.10.12-18.59.24:447][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Porta.Porta]
+[2021.10.12-18.59.24:447][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Porta]
+[2021.10.12-18.59.24:453][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Porta_Auto12907548F41057A0B0E08C9B42477A20A.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Porta_Auto1.uasset'
+[2021.10.12-18.59.24:453][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Porta_varanda] ([1] browsable assets)...
+[2021.10.12-18.59.24:466][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Porta_varanda.Porta_varanda]
+[2021.10.12-18.59.24:466][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Porta_varanda]
+[2021.10.12-18.59.24:472][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Porta_varanda_Auto14208AC6F49EEA70954DFBEB8B6A8B776.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Porta_varanda_Auto1.uasset'
+[2021.10.12-18.59.24:473][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Porta_Varanda_2] ([1] browsable assets)...
+[2021.10.12-18.59.24:485][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Porta_Varanda_2.Porta_Varanda_2]
+[2021.10.12-18.59.24:485][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Porta_Varanda_2]
+[2021.10.12-18.59.24:491][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Porta_Varanda_2_Auto1AD09E7CD42BEFB415E64AFA7249EFA72.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Porta_Varanda_2_Auto1.uasset'
+[2021.10.12-18.59.24:492][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Telhado] ([1] browsable assets)...
+[2021.10.12-18.59.24:505][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Telhado.Telhado]
+[2021.10.12-18.59.24:505][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Telhado]
+[2021.10.12-18.59.24:512][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Telhado_Auto1AC2D4F7440F88AE172F36CBDDE7A8A87.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Telhado_Auto1.uasset'
+[2021.10.12-18.59.24:512][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Vidro_janela] ([1] browsable assets)...
+[2021.10.12-18.59.24:537][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Vidro_janela.Vidro_janela]
+[2021.10.12-18.59.24:537][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Vidro_janela]
+[2021.10.12-18.59.24:543][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Vidro_janela_Auto16910ACD845FE4EBA7283C79F4B02C64F.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Vidro_janela_Auto1.uasset'
+[2021.10.12-18.59.24:544][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos_Caio/Pedra_chaminé] ([1] browsable assets)...
+[2021.10.12-18.59.24:553][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modelos_Caio/Pedra_chaminé.Pedra_chaminé]
+[2021.10.12-18.59.24:553][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos_Caio/Pedra_chaminé]
+[2021.10.12-18.59.24:560][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Pedra_chaminé_Auto137294AEF4C4E36E3C5EB1693231D16E4.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/Modelos_Caio/Pedra_chaminé_Auto1.uasset'
+[2021.10.12-18.59.24:561][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/LinhaBranca] ([1] browsable assets)...
+[2021.10.12-18.59.24:571][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/LinhaBranca.LinhaBranca]
+[2021.10.12-18.59.24:571][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/LinhaBranca]
+[2021.10.12-18.59.24:576][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/LinhaBranca_Auto18F184B8B49077B7183A4D4A9EB2501C1.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/LinhaBranca_Auto1.uasset'
+[2021.10.12-18.59.24:576][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/Prata] ([1] browsable assets)...
+[2021.10.12-18.59.24:585][620]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ModelosPedro/Prata.Prata]
+[2021.10.12-18.59.24:585][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/Prata]
+[2021.10.12-18.59.24:590][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Prata_Auto1FD1A7382464D8C54DB356D8418D26B49.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/Prata_Auto1.uasset'
+[2021.10.12-18.59.24:591][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/FábricaParte3_Bololo2] ([1] browsable assets)...
+[2021.10.12-18.59.24:605][620]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosPedro/FábricaParte3_Bololo2.FábricaParte3_Bololo2]
+[2021.10.12-18.59.24:605][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/FábricaParte3_Bololo2]
+[2021.10.12-18.59.24:664][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/FábricaParte3_Bololo2_Auto19CC6A61644B7B3793EE633B64B9C8BE4.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/FábricaParte3_Bololo2_Auto1.uasset'
+[2021.10.12-18.59.24:665][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/FábricaParte3_Bololo] ([1] browsable assets)...
+[2021.10.12-18.59.24:673][620]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosPedro/FábricaParte3_Bololo.FábricaParte3_Bololo]
+[2021.10.12-18.59.24:673][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/FábricaParte3_Bololo]
+[2021.10.12-18.59.24:698][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/FábricaParte3_Bololo_Auto1E48991C747F36A1527858089B42995F8.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/FábricaParte3_Bololo_Auto1.uasset'
+[2021.10.12-18.59.24:699][620]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ModelosPedro/FábricaParte3_Quimicos] ([1] browsable assets)...
+[2021.10.12-18.59.24:709][620]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ModelosPedro/FábricaParte3_Quimicos.FábricaParte3_Quimicos]
+[2021.10.12-18.59.24:709][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/ModelosPedro/FábricaParte3_Quimicos]
+[2021.10.12-18.59.24:743][620]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/FábricaParte3_Quimicos_Auto17BEEF4214F10E192504704898FC831FF.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Autosaves/Game/ModelosPedro/FábricaParte3_Quimicos_Auto1.uasset'
+[2021.10.12-18.59.24:744][620]LogFileHelpers: Auto-saving content packages took 0.520
+[2021.10.12-19.02.34:009][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Vehicles/Car01.Car01
+[2021.10.12-19.03.35:353][ 11]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2021.10.12-19.03.35:353][ 11]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Box)  and was replaced as a Custom Event!
+[2021.10.12-19.04.23:043][135]BlueprintLog: New page: Compile Car01
+[2021.10.12-19.04.23:048][135]LogBlueprint: Warning: [AssetLog] C:\Users\marce\OneDrive\Documentos\GitHub\Biosaviour\Content\Vehicles\Car01.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2021.10.12-19.04.23:056][135]LogBlueprint: Error: [AssetLog] C:\Users\marce\OneDrive\Documentos\GitHub\Biosaviour\Content\Vehicles\Car01.uasset: [Compiler] Found more than one function with the same name CustomEvent; second occurance at  CustomEvent
+[2021.10.12-19.04.23:107][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.10.12-19.04.30:836][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Car01" FILE="../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset" SILENT=true
+[2021.10.12-19.04.30:867][540]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Car01EE9C5D7942F552F0BBE582B80AAA5FEA.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset'
+[2021.10.12-19.04.30:882][540]AssetCheck: New page: Asset Save: Car01
+[2021.10.12-19.04.30:882][540]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/Car01.Car01
+[2021.10.12-19.04.33:698][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.10.12-19.04.33:924][601]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMap84905AA44C2C6082EBE28595001A6E75.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.12-19.04.34:490][601]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMap_BuiltDataB274559D4FF264761810599D212BA10F.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.12-19.04.34:520][601]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-19.04.34:520][601]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.12-19.04.34:520][601]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.12-19.04.38:612][697]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.12-19.05.35:172][597]BlueprintLog: New page: Compile Car01
+[2021.10.12-19.05.35:179][597]LogBlueprint: Error: [AssetLog] C:\Users\marce\OneDrive\Documentos\GitHub\Biosaviour\Content\Vehicles\Car01.uasset: [Compiler] Found more than one function with the same name CustomEvent; second occurance at  CustomEvent
+[2021.10.12-19.05.35:246][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.10.12-19.05.36:733][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Car01" FILE="../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset" SILENT=true
+[2021.10.12-19.05.36:763][621]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Car01A1343AE24A0ED09D10AC58BDD37BD18C.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset'
+[2021.10.12-19.05.36:775][621]AssetCheck: New page: Asset Save: Car01
+[2021.10.12-19.05.36:775][621]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/Car01.Car01
+[2021.10.12-19.07.07:624][677]BlueprintLog: New page: Compile Car01
+[2021.10.12-19.07.07:686][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.EixoDE' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.EixoDD' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.PhysicsConstraint3' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.EixoTE' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.EixoTD' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.07:700][677]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.Car01_C_2.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2021.10.12-19.07.08:732][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/Car01" FILE="../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset" SILENT=true
+[2021.10.12-19.07.08:763][697]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/Car01F9551E7548B731B1D627DEBABA3DFBE2.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/Vehicles/Car01.uasset'
+[2021.10.12-19.07.08:775][697]AssetCheck: New page: Asset Save: Car01
+[2021.10.12-19.07.08:775][697]LogContentValidation: Display: Validating Blueprint /Game/Vehicles/Car01.Car01
