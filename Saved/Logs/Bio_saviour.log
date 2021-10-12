@@ -1235,3 +1235,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.12-18.43.28:978][643]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.12-18.43.28:978][643]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.12-18.43.28:978][643]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.12-18.47.04:062][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.10.12-18.47.04:823][102]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.10.12-18.47.05:647][102]LogSlate: Took 0.004612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.12-18.47.07:032][139]LogSlate: Took 0.007121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.12-18.47.09:062][184]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.10.12-18.47.13:031][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.12-18.47.13:254][300]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMap09534D144A230C1550829EAE5D8F0DC6.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.12-18.47.13:817][300]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMap_BuiltDataCDEA4D94453FF7BE1FCD489BEA79372D.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.12-18.47.13:831][300]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-18.47.13:832][300]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.12-18.47.13:832][300]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.12-18.49.23:925][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.12-18.49.24:164][622]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMapEE2C4A1E475A8436336FCAB3E1E21DDE.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.12-18.49.24:738][622]LogSavePackage: Moving '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Saved/ThirdPersonExampleMap_BuiltData38B5CACD4F5B7282602A61AC142B71CA.tmp' to '../../../../../../Users/marce/OneDrive/Documentos/GitHub/Biosaviour/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.10.12-18.49.24:785][622]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.12-18.49.24:785][622]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.10.12-18.49.24:785][622]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
